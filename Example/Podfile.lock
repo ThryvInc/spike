@@ -1,0 +1,25 @@
+PODS:
+  - Nimble (7.0.3)
+  - Quick (1.2.0)
+  - Spike (0.0.1):
+    - Surge (~> 2.0.0)
+  - Surge (2.0.0)
+
+DEPENDENCIES:
+  - Nimble (~> 7.0.2)
+  - Quick (~> 1.2.0)
+  - Spike (from `../`)
+
+EXTERNAL SOURCES:
+  Spike:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Nimble: 7f5a9c447a33002645a071bddafbfb24ea70e0ac
+  Quick: 58d203b1c5e27fff7229c4c1ae445ad7069a7a08
+  Spike: b227dab10c1ccadb9e7d5e8e43b23d91e642399d
+  Surge: 1f0286bc5f0fe4283f3455479895bf85c7ef7760
+
+PODFILE CHECKSUM: d5f2337a458487c986275526a38cbd01644cbe5b
+
+COCOAPODS: 1.4.0
